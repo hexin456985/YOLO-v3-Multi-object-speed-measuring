@@ -1,0 +1,138 @@
+Found 1 boxes for img
+tvmonitor 0.50
+tvmonitor 0.50 speed0.00
+tvmonitor 0.50 speed0.66
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.71
+tvmonitor 0.50 speed0.71
+tvmonitor 0.50 speed0.71
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.47
+tvmonitor 0.50 speed0.09
+tvmonitor 0.50 speed0.09
+tvmonitor 0.50 speed0.09
+tvmonitor 0.50 speed0.12
+tvmonitor 0.50 speed0.12
+tvmonitor 0.50 speed0.12
+tvmonitor 0.50 speed0.10
+tvmonitor 0.50 speed0.10
+tvmonitor 0.50 speed0.10
+tvmonitor 0.50 speed0.79
+tvmonitor 0.50 speed0.79
+
+
+
+Found 2 boxes for img
+tvmonitor 0.65
+person 0.35
+tvmonitor 0.65 speed19.41
+person 0.35 speed9.15
+tvmonitor 0.65 speed41.04
+person 0.35 speed41.04
+tvmonitor 0.65 speed41.04
+person 0.35 speed12.47
+tvmonitor 0.65 speed12.47
+person 0.35 speed12.47
+tvmonitor 0.65 speed57.98
+person 0.35 speed57.98
+tvmonitor 0.65 speed57.98
+person 0.35 speed16.36
+tvmonitor 0.65 speed16.36
+person 0.35 speed16.36
+tvmonitor 0.65 speed2.25
+person 0.35 speed2.25
+tvmonitor 0.65 speed2.25
+person 0.35 speed1.15
+tvmonitor 0.65 speed1.15
+person 0.35 speed1.15
+tvmonitor 0.65 speed0.29
+person 0.35 speed0.29
+tvmonitor 0.65 speed0.29
+person 0.35 speed1.19
+
+
+
+Found 1 boxes for img
+tvmonitor 0.32
+tvmonitor 0.32 speed124.62
+tvmonitor 0.32 speed40.35
+tvmonitor 0.32 speed30.85
+tvmonitor 0.32 speed30.85
+tvmonitor 0.32 speed30.85
+tvmonitor 0.32 speed5.35
+tvmonitor 0.32 speed5.35
+tvmonitor 0.32 speed5.35
+tvmonitor 0.32 speed54.46
+tvmonitor 0.32 speed54.46
+tvmonitor 0.32 speed54.46
+tvmonitor 0.32 speed55.67
+tvmonitor 0.32 speed55.67
+tvmonitor 0.32 speed55.67
+tvmonitor 0.32 speed27.14
+tvmonitor 0.32 speed27.14
+tvmonitor 0.32 speed27.14
+tvmonitor 0.32 speed1.95
+tvmonitor 0.32 speed1.95
+tvmonitor 0.32 speed1.95
+tvmonitor 0.32 speed8.16
+tvmonitor 0.32 speed8.16
+
+
+
+Found 1 boxes for img
+tvmonitor 0.33
+tvmonitor 0.33 speed49.94
+tvmonitor 0.33 speed63.18
+tvmonitor 0.33 speed45.56
+tvmonitor 0.33 speed45.56
+tvmonitor 0.33 speed45.56
+tvmonitor 0.33 speed8.48
+tvmonitor 0.33 speed8.48
+tvmonitor 0.33 speed8.48
+tvmonitor 0.33 speed25.00
+tvmonitor 0.33 speed25.00
+tvmonitor 0.33 speed25.00
+tvmonitor 0.33 speed3.43
+tvmonitor 0.33 speed3.43
+tvmonitor 0.33 speed3.43
+tvmonitor 0.33 speed6.00
+tvmonitor 0.33 speed6.00
+tvmonitor 0.33 speed6.00
+tvmonitor 0.33 speed12.57
+tvmonitor 0.33 speed12.57
+tvmonitor 0.33 speed12.57
+tvmonitor 0.33 speed6.26
+tvmonitor 0.33 speed6.26
+
+
+
+Found 1 boxes for img
+tvmonitor 0.56
+tvmonitor 0.56 speed81.19
+tvmonitor 0.56 speed37.99
+tvmonitor 0.56 speed26.63
+tvmonitor 0.56 speed26.63
+tvmonitor 0.56 speed26.63
+tvmonitor 0.56 speed11.65
+tvmonitor 0.56 speed11.65
+tvmonitor 0.56 speed11.65
+tvmonitor 0.56 speed22.79
+tvmonitor 0.56 speed22.79
+tvmonitor 0.56 speed22.79
+tvmonitor 0.56 speed17.79
+tvmonitor 0.56 speed17.79
+tvmonitor 0.56 speed17.79
+tvmonitor 0.56 speed4.18
+tvmonitor 0.56 speed4.18
+tvmonitor 0.56 speed4.18
+tvmonitor 0.56 speed4.90
+tvmonitor 0.56 speed4.90
+tvmonitor 0.56 speed4.90
+tvmonitor 0.56 speed1.91
+tvmonitor 0.56 speed1.91
+
+
+
